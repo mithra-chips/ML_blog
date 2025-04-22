@@ -23,6 +23,6 @@
 ## TODO Topics
 1. [**Start from Basic Terminology**](https://github.com/mithra-chips/ML_blog/issues/1)
 2. [**The Essence of Linear Regression**](https://github.com/mithra-chips/ML_blog/issues/2#issue-3008600106)
-3. **Error Calculation - Likelihood Function**
+3. **Error and loss function**
 4. **Gravitude for training**
 5. **L2 Regularized Linear Regression (Ridge Regression)**
