@@ -1,0 +1,13 @@
+## Performance Evaluation
+- Error Rate: E=a/m, a samples are not accurate in m samples
+- Accuracy
+- Training Error
+- Generalization Error: Important for model selection
+  - Overfitting
+  - Underfitting
+- Evaluation methods
+  - hold-out
+  - Cross-Validation
+  - bootstrapping
+  - parameters
+  - error calculating

@@ -7,8 +7,10 @@
   - Inductive Bias
 ## Data Concepts
 - Dataset
-  - Training Set: composed with training samples
-  - Test Set: composed with test samples
+  - Training Set
+    - training samples for model training 
+    - validation set for evaluation
+  - Test Set: composed with test samples for predicting
 - Instance
   - Attribute
     - Feature Vector
