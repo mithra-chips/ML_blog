@@ -13,7 +13,12 @@
      - Jupyter Debugger
 
 ### Reference textbook
-![《Machine Learning》by 周 志华](西瓜书.jpg)
+- ![《Machine Learning》by 周 志华](西瓜书.jpg)
+
+- ![《Hands-on Machine Learning》(Chinese Edition)](Hands-onMachineLearning.jpg)
+
+### Reference videos
+[机器学习入门到精通](https://www.bilibili.com/video/BV1PN4y1V7d9/?vd_source=409d253abbce60cddf6494969d7904bf)
 
 ### Dependency Installation
 - TODO: Add demo project dependencies(install sklearn, seaborn)

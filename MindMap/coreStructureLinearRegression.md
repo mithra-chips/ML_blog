@@ -9,8 +9,9 @@
 
 ## Optimizer
 - Gradient Descent
-  - Stochastic Gradient Descent(随机梯度下降, SGD)
-  - Standard Gradient Descent
+  - Stochastic Gradient Descent(SGD)
+  - Batch Gradient Descent(BGD)
+  - Mini-batch Gradient Descent(MBGD)
 
 ## Regularization and overfitting
   - L1/L2 Regularization
