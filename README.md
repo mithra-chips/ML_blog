@@ -30,4 +30,5 @@
 2. [**The Essence of Linear Regression**](https://github.com/mithra-chips/ML_blog/issues/2#issue-3008600106)
     - [**Error and loss function**](https://github.com/mithra-chips/ML_blog/issues/3)
     - [**Optimization**](https://github.com/mithra-chips/ML_blog/issues/4)
+    - [**Practice 1**](https://github.com/mithra-chips/ML_blog/issues/5)
 3. **L2 Regularized Linear Regression**
