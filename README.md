@@ -12,6 +12,14 @@
    - Debugging Plugins:
      - Jupyter Debugger
 
+3. **install the environment**:
+   - clone this repo
+   - install conda for preparations
+   - run the following commands
+      ```bash
+      conda env create -f environment.yml
+      conda activate my_env
+      ```
 ### Reference textbook
 - ![《Machine Learning》by 周 志华](西瓜书.jpg)
 
